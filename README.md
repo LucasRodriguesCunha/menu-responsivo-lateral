@@ -1,2 +1,2 @@
 # menu-responsivo-lateral
- Mini-projeto realizado em HTML5 e CSS3
+ Mini-projeto realizado em HTML5, CSS3 e JavaScript
